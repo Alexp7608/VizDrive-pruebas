@@ -77,7 +77,7 @@ To access interactive models of each component, hosted in GitHub pages, visit `e
 
 ---
 
-## Diagrams and Graphs 📊
+## Diagrams and Graphs 
 
 Flowcharts, circuits, and relevant data graphs.
 
@@ -87,7 +87,7 @@ Flowcharts, circuits, and relevant data graphs.
 
 ---
 
-## Team Members 🤝
+## Team Members 
 
 * Carlo Ho Ng
 * Alexis Palacios Ng
