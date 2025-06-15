@@ -79,7 +79,7 @@ This section provides a detailed enumeration and description of all hardware com
 We developed a custom shield circuit using a Printed Circuit Board (PCB) to streamline the electrical connections. This approach significantly reduced cable clutter, minimizing the overall weight, size, and complexity of the system. All components were manually soldered onto the PCB to ensure a compact and reliable integration.
 
 * **Detailed Electromechanical Diagram:** For a more in-depth view of how all electronic and mechanical components are interconnected, please refer to the [Electromechanical Diagram](./../schemes/electromechanical_diagram.pdf) in the `schemes/` folder.
-* **Cirkit Circuit Design:** A detailed visual representation of our main control circuit, including sensor and motor driver connections to the Raspberry Pi, can be found in the [Cirkit Circuit Design](./../schemes/cirkit_circuit.png) export. This illustrates component placement and wiring logic.
+* **Cirkit Circuit Design:** A detailed visual representation of our main control circuit, including sensor and motor driver connections to the Arduino Mega, can be found in the [Cirkit Circuit Design](https://alexp7608.github.io/VizDrive-pruebas/embeds/interactive_circuit.html) export. This illustrates component placement and wiring logic.
 
 ---
 [Back to Main README.md Index](#main-readme-index)
