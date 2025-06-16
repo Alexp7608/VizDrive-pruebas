@@ -17,14 +17,10 @@ This section provides a detailed enumeration and description of all hardware com
 
 </td>
 <td>
-<img src="../assets/hardware_photos/mega2560pro.jpg" width="300" height="200" alt="Mega 2560 Pro Embed">
+<img src="../assets/hardware_photos/mega2560pro.jpg" width="200" height="200" alt="Mega 2560 Pro Embed">
 </td>
 </tr>
-</table>
 
-## Motion System Components
-
-<table>
 <tr>
 <td>
 
@@ -41,9 +37,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/hobbymotor.jpg" width="200" height="200" alt="Hobby Gearmotor">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -60,9 +54,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/servo.jpg" width="200" height="200" alt="Servo Motor MG90S">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -79,11 +71,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/motordriver.jpg" width="300" height="200" alt="Mini Motor Driver L298N">
 </td>
 </tr>
-</table>
 
-## Sensor Suite
-
-<table>
 <tr>
 <td>
 
@@ -100,9 +88,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/pixycam.jpg" width="200" height="200" alt="PixyCam2">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -116,12 +102,10 @@ This section provides a detailed enumeration and description of all hardware com
 
 </td>
 <td>
-<img src="../assets/hardware_photos/tcs3472color.jpg" width="300" height="200" alt="TCS3472 Color Sensor">
+<img src="../assets/hardware_photos/tcs3472color.jpg" width="200" height="200" alt="TCS3472 Color Sensor">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -135,12 +119,10 @@ This section provides a detailed enumeration and description of all hardware com
 
 </td>
 <td>
-<img src="../assets/hardware_photos/tcs3200color.jpg" width="300" height="200" alt="TCS3200 Color Sensor">
+<img src="../assets/hardware_photos/tcs3200color.jpg" width="200" height="200" alt="TCS3200 Color Sensor">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -157,9 +139,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/ultrasonicsensor.jpg" width="200" height="100" alt="Ultrasonic Sensor HC-SR04">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -176,9 +156,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/MPU6050.jpg" width="300" height="200" alt="MPU6050 Gyroscope">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -194,11 +172,7 @@ This section provides a detailed enumeration and description of all hardware com
 <img src="../assets/hardware_photos/encoder.jpg" width="300" height="200" alt="IR Encoder">
 </td>
 </tr>
-</table>
 
-## Power Supply and Regulation
-
-<table>
 <tr>
 <td>
 
@@ -212,12 +186,10 @@ This section provides a detailed enumeration and description of all hardware com
 
 </td>
 <td>
-<img src="../assets/hardware_photos/3.7Vbattery.jpg" width="200" height="200" alt="Li-ion 18650 3.7V Battery">
+<img src="../assets/hardware_photos/3.7Vbattery.jpg" width="300" height="200" alt="Li-ion 18650 3.7V Battery">
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td>
 
@@ -230,7 +202,7 @@ This section provides a detailed enumeration and description of all hardware com
 
 </td>
 <td>
-<img src="../assets/hardware_photos/9Vbattery.jpg" width="200" height="200" alt="Standard 9V Battery">
+<img src="../assets/hardware_photos/9Vbattery.jpg" width="300" height="200" alt="Standard 9V Battery">
 </td>
 </tr>
 </table>
@@ -280,7 +252,7 @@ We developed a custom shield circuit using a Printed Circuit Board (PCB) to stre
 
 * **Detailed Electromechanical Diagram:** For a more in-depth view of how all electronic and mechanical components are interconnected, please refer to the [Electromechanical Diagram](./../schemes/electromechanical_diagram.png) in the `schemes/` folder.
 
-* **Cirkit Circuit Design:** A detailed interactive visual representation of our circuit, can be found in `embeds/`: [Interactive Cirkit Circuit Design](../embeds/interactive_circuit.html).
+* **Cirkit Circuit Design:** A detailed interactive visual representation of our circuit, can be found in `embeds/`: [Interactive Cirkit Circuit Design](https://alexp7608.github.io/VizDrive-pruebas/embeds/interactive_circuit.html).
 
 ---
 
